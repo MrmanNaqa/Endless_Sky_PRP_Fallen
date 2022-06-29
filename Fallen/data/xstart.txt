@@ -1,0 +1,22 @@
+# Copyright (c) 2015 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+start "Fallen"
+	name "Fallen"
+	description `Will you be able to conquer the galaxy and bring back the glorious days of the [data corrupted] empire?`
+	date 16 11 3013
+	system "Relic"
+	planet "Relic Station"
+	conversation "Fallen Intro"
+	account
+		credits 2700000
+		score 800
+	set "license: Pilot's"
+	set "mod: Fallen"

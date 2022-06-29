@@ -1,0 +1,4 @@
+government "Fallen"
+	swizzle 0
+	"crew attack" 1.2
+	"crew defense" 2.2

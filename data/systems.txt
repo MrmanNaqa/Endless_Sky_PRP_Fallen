@@ -1,7 +1,7 @@
 outfit "Storage Cell"
 	category "Power"
 	cost 1875
-	thumbnail "outfit/fallen%20cell"
+	thumbnail "outfit/fallen cell"
 	"mass" 1
 	"outfit space" -1
 	"energy capacity" 130
@@ -10,7 +10,7 @@ outfit "Storage Cell"
 outfit "Energy Cube"
 	category "Power"
 	cost 50000
-	thumbnail "outfit/fallen%20cube"
+	thumbnail "outfit/fallen cube"
 	"mass" 1
 	"outfit space" -1
 	"energy generation" .182
@@ -20,7 +20,7 @@ outfit "Energy Cube"
 outfit "Heat Sink"
 	category "Systems"
 	cost 3750
-	thumbnail "outfit/fallen%20sink"
+	thumbnail "outfit/fallen sink"
 	"mass" 1
 	"outfit space" -1
 	"cooling" 1.725
@@ -29,7 +29,7 @@ outfit "Heat Sink"
 outfit "Shield Modulator"
 	category "Systems"
 	cost 21622
-	thumbnail "outfit/fallen%20shield"
+	thumbnail "outfit/fallen shield"
 	"mass" 1
 	"outfit space" -1
 	"shield generation" .062

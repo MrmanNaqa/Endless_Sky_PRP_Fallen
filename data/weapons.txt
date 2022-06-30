@@ -27,7 +27,7 @@ outfit "Balefire Lance"
 outfit "Sonic Beam"
 	category "Guns"
 	cost 120000
-	thumbnail "outfit/seeker%20beam"
+	thumbnail "outfit/seeker beam"
 	"mass" 15
 	"outfit space" -15
 	"weapon capacity" -15
@@ -53,7 +53,7 @@ outfit "Sonic Beam"
 outfit "Kinetic Splicer"
 	category "Guns"
 	cost 540000
-	thumbnail "outfit/galaxy%20cannon"
+	thumbnail "outfit/galaxy cannon"
 	"mass" 35
 	"outfit space" -35
 	"weapon capacity" -35
@@ -85,7 +85,7 @@ outfit "Kinetic Splicer"
 outfit "Sonic Turret"
 	category "Turrets"
 	cost 250000
-	thumbnail "outfit/seeker%20turret"
+	thumbnail "outfit/seeker turret"
 	"mass" 35
 	"outfit space" -35
 	"weapon capacity" -35

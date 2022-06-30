@@ -1,6 +1,6 @@
 outfit "Alpha Hermes Frame"
 	category "Engines"
-	thumbnail "outfit/hermes%20drive"
+	thumbnail "outfit/hermes drive"
 	cost 250000
 	"mass" 15
 	"outfit space" -15
@@ -17,7 +17,7 @@ outfit "Alpha Hermes Frame"
 
 outfit "B-1 Achilles Frame"
 	category "Engines"
-	thumbnail "outfit/achilles%20drive"
+	thumbnail "outfit/achilles drive"
 	cost 500000
 	"mass" 30
 	"outfit space" -30
@@ -36,7 +36,7 @@ outfit "B-1 Achilles Frame"
 
 outfit "C-3 Nimbus Frame"
 	category "Engines"
-	thumbnail "outfit/nimbus%20drive"
+	thumbnail "outfit/nimbus drive"
 	cost 1500000
 	"mass" -50
 	"outfit space" -50
@@ -53,7 +53,7 @@ outfit "C-3 Nimbus Frame"
 
 outfit "Marble Drive"
 	category "Engines"
-	thumbnail "outfit/marble%20drive"
+	thumbnail "outfit/marble drive"
 	cost 500000
 	"mass" -34
 	"outfit space" -20
@@ -72,7 +72,7 @@ outfit "Marble Drive"
 outfit "Thrust Module"
 	category "Engines"
 	"cost" 38508
-	thumbnail "outfit/fallen%20engine"
+	thumbnail "outfit/fallen engine"
 	"mass" 2
 	"outfit space" -2
 	"engine capacity" -2

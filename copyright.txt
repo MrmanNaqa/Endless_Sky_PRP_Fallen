@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Endless Sky PRP Fallen
+Upstream-Contact: NaMingHao <mnrmnaqa5@gmail.com>
+Source: https://github.com/MrmanNaqa/Endless_Sky_PRP_Fallen
+
+Files: *
+Copyright: Copyright 2016 spiral03
+License: GPL-3+
+Comment: fallen2*.ico
+
+Files: newicon.png
+Copyright: spiral03
+License: CC-BY-SA-4.0
